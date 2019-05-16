@@ -7,3 +7,5 @@ This is my first project learning HTML5, CSS, Javascript, Jquery etc.This
 I am excited to learn more!!
 
 I can't wait to develop my first app!
+
+Phone number : +1 xxx-xxx-yyyy
